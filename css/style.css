@@ -1,0 +1,44 @@
+img {
+  border-radius: 50%;
+  width: 200px;
+}
+h1 {
+  text-align: center;
+}
+#info {
+  display: flex;
+  justify-content: center;
+}
+#skills {
+  display: flex;
+  justify-content: center;
+}
+.timer {
+  color: whitesmoke;
+  background-color: rgb(47, 255, 245);
+  font-weight: bold;
+  width: 200px;
+  /* height: 50px; */
+  display: inline-block;
+  text-align: center;
+}
+.miscellanerous-todo {
+  background-color: rgb(148, 238, 130);
+  color: white;
+  display: inline-block;
+  padding: 0 10px;
+  font-weight: 500;
+}
+.list-title {
+  font-weight: bold;
+}
+ul {
+  line-height: 180%;
+  list-style: none;
+}
+.schedule-content {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  /* asd */
+}
